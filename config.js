@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'palmtree',
 			id: '1',
 			links: [
 				{
@@ -191,38 +191,38 @@ const CONFIG = {
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Fmovies',
+					link: 'https://www.fmovies.to',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Manga',
+					link: 'https://w14.mangafreak.net/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Anime',
+					link: 'https://9anime.to/',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'codesandbox',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'AWS',
+					link: 'https://aws.amazon.com/console/',
 				},
 				{
-					name: 'Rust',
+					name: 'udemy',
 					link: 'https://www.reddit.com/r/rust/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'cantrill',
+					link: 'https://learn.cantrill.io/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'acloudguru',
+					link: 'https://acloudguru.com/',
 				},
 			],
 		},
