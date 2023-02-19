@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: '',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -213,15 +213,15 @@ const CONFIG = {
 					link: 'https://aws.amazon.com/console/',
 				},
 				{
-					name: 'udemy',
+					name: 'Udemy',
 					link: 'https://www.reddit.com/r/rust/',
 				},
 				{
-					name: 'cantrill',
+					name: 'Cantrill',
 					link: 'https://learn.cantrill.io/',
 				},
 				{
-					name: 'acloudguru',
+					name: 'Acloudguru',
 					link: 'https://acloudguru.com/',
 				},
 			],
