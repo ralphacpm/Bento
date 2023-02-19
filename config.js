@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: '',
 	imageBackground: false,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '121.087922',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
@@ -221,7 +221,7 @@ const CONFIG = {
 					link: 'https://learn.cantrill.io/',
 				},
 				{
-					name: 'Acloudguru',
+					name: 'ACloudGuru',
 					link: 'https://acloudguru.com/',
 				},
 			],
